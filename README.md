@@ -1,3 +1,3 @@
 # CNN-Implementation
 
-Implemented CNN model for test through Keras
+Implemented CNN model for test through Tensorflow, Sckitlearn, and Keras.
